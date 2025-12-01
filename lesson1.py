@@ -5,8 +5,6 @@ class Car:
         self.made = made
 
 
-
-
 car_honda = Car(color='blue',made='china')
 car_subaru = Car(color='red',made='KG')
 
